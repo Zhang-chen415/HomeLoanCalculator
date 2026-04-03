@@ -22,8 +22,10 @@
 
 ## 程式畫面截圖
 主介面
+
 <img width="463" height="332" alt="image" src="https://github.com/user-attachments/assets/5ed0e48b-f580-4953-aee8-5f44d7ffd9f6" />
 
 計算結果
+
 <img width="307" height="283" alt="image" src="https://github.com/user-attachments/assets/75da0cdd-0cfa-40e2-90b1-59e9e0c082dc" />
 
