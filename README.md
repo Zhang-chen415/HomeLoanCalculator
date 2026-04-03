@@ -4,8 +4,11 @@
 
 ## 功能
 彈性輸入：支援房屋總價、自備款（比例或金額切換）、年利率及貸款年限。
+
 寬限期支援：可設定前幾年只繳利息不繳本金的寬限期。
+
 精確計算：採用本息平均攤還法，數值精確至小數點後兩位。
+
 專業呈現：輸出結果包含千分位逗號，提升報表可讀性。
 
 ## 🛠 執行說明
@@ -20,6 +23,7 @@
 ## 程式畫面截圖
 主介面
 <img width="463" height="332" alt="image" src="https://github.com/user-attachments/assets/5ed0e48b-f580-4953-aee8-5f44d7ffd9f6" />
+
 計算結果
 <img width="307" height="283" alt="image" src="https://github.com/user-attachments/assets/75da0cdd-0cfa-40e2-90b1-59e9e0c082dc" />
 
